@@ -1,0 +1,33 @@
+_repo: How-to-thought-read-A-manual-of-instruction-in-the-strange-and-mystic-in-daily-life-psychic-p__68388
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Coates, James, Ph.D., F.A.S.
+    gutenberg_agent_id: '54749'
+    url: http://www.gutenberg.org/2009/agents/54749
+description: ''
+gutenberg_issued: '2022-06-23'
+identifiers:
+  gutenberg: '68388'
+language: en
+pgterms:marc904: https://archive.org/details/b28092156
+pgterms:marc905: 20210421074132coates
+pgterms:marc906: '1893'
+pgterms:marc907: GB
+production_note: deaurider and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United Kingdom :Hay Nisbet & Co.,1893.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Telepathy'
+- !lcsh 'Spiritualism'
+- !lcc 'BF'
+- !lcsh 'Clairvoyance'
+- GITenberg
+title: "How to thought-read\r\nA manual of instruction in the strange and mystic in\
+  \ daily life, psychic phenomena, including hypnotic, mesmeric, and psychic states,\
+  \ mind and muscle reading, thought transference, psychometry, clairvoyance, and\
+  \ phenomenal spiritualism"
+url: http://www.gutenberg.org/ebooks/68388
